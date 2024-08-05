@@ -629,19 +629,19 @@ fn main() {
     // large_data_sets();
 
     // Line Charts
-    // adding_names_to_line_and_scatter_plot();
-    // line_and_scatter_styling();
-    // styling_line_plot();
-    // line_shape_options_for_interpolation();
-    // line_dash();
-    // filled_lines();
+    adding_names_to_line_and_scatter_plot();
+    line_and_scatter_styling();
+    styling_line_plot();
+    line_shape_options_for_interpolation();
+    line_dash();
+    filled_lines();
 
     // Bar Charts
-    // basic_bar_chart();
-    // grouped_bar_chart();
-    // stacked_bar_chart();
-    // table_chart();
+    basic_bar_chart();
+    grouped_bar_chart();
+    stacked_bar_chart();
+    table_chart();
 
     // Sankey Diagrams
-    // basic_sankey_diagram();
+    basic_sankey_diagram();
 }
