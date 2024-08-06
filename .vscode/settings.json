@@ -3,6 +3,7 @@
         "linspace",
         "ndarray",
         "plotly",
-        "powf"
+        "powf",
+        "rustc"
     ]
 }
